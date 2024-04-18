@@ -19,30 +19,24 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        After graduating with a degree in{" "}
-        <span className="font-medium">Accounting</span>, I decided to pursue my
-        passion for programming. I enrolled in a coding bootcamp and learned{" "}
-        <span className="font-medium">full-stack web development</span>.{" "}
-        <span className="italic">My favorite part of programming</span> is the
-        problem-solving aspect. I <span className="underline">love</span> the
-        feeling of finally figuring out a solution to a problem. My core stack
-        is{" "}
+      As a 3’rd year Software Engineering student at Atılım University, I've dedicated considerable time to mastering iOS development, with a focus on SwiftUI and UIKit technologies, along with exploring backend technologies like .NET and Spring. I approach software engineering with a keen interest in research, hands-on learning, and teamwork. I thrive on challenges, constantly seeking opportunities to expand my knowledge base and collaborate effectively within diverse teams. Driven by a deep passion for software engineering, I am committed to developing impactful solutions that simplify and enrich the lives of users.
+{" "}
+        <span className="font-medium"></span>
+        {" "}
+        <span className="font-medium"></span>.{" "}
+        <span className="italic"></span> 
+         <span className="underline"></span> {" "}
         <span className="font-medium">
-          React, Next.js, Node.js, and MongoDB
+         
         </span>
-        . I am also familiar with TypeScript and Prisma. I am always looking to
-        learn new technologies. I am currently looking for a{" "}
-        <span className="font-medium">full-time position</span> as a software
-        developer.
+        {" "}
+        <span className="font-medium"></span> 
       </p>
 
       <p>
-        <span className="italic">When I'm not coding</span>, I enjoy playing
-        video games, watching movies, and playing with my dog. I also enjoy{" "}
-        <span className="font-medium">learning new things</span>. I am currently
-        learning about{" "}
-        <span className="font-medium">history and philosophy</span>. I'm also
-        learning how to play the guitar.
+        <span className="italic"></span>{" "}
+        <span className="font-medium"></span>{" "}
+        <span className="font-medium"></span>
       </p>
     </motion.section>
   );
